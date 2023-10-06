@@ -8,5 +8,5 @@ Vaccination rates were of brief curiousity, but generally left alone in lieu of 
 2021 data obtained from https://ourworldindata.org/covid-deaths was used to explore trends through the following metrics:
 1. Total Cases vs Total Deaths
 2. Global Deaths by Continent
-3. Global Death Percentage
+3. Global Death Percentage 
 4. Infection Rates vs Population
